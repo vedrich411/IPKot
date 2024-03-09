@@ -1,5 +1,5 @@
 # $${\color{white}IPKot}$$ $${\color{red}v1.8}$$
-![](https://github.com/the-computer-mayor/computer-mayor-db/blob/main/ipkot.png?raw=true)
+![](https://github.com/the-computer-mayor/computer-mayor-db/blob/main/ipkotV1.8.png?raw=true)
 # *Installation & Usage*
 Windows
    - ***Run Command Prompt as Administrator***
