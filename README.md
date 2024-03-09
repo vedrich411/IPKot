@@ -15,11 +15,3 @@ Python
 curl https://raw.githubusercontent.com/the-computer-mayor/IPKot/main/ipkot.py -o ipkot.py
 ```
    - `python3 ipkot.py`
-# *Features*
-By only entering `IPv4` or `IPv6` you're getting the following info
-   - Country & Country Code ☠
-   - Region & Region Name ☠
-   - City & ZIP ☠
-   - Latitude & Longitude ☠
-   - Timezone & ISP & ORG & AS ☠
-   - if Pingable ☠
