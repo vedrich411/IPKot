@@ -3,7 +3,7 @@
 # *Installation & Usage*
 Windows
    - ***Run Command Prompt as Administrator***
-   - `curl https://raw.githubusercontent.com/the-computer-mayor/IPKot/main/ipkot.exe -o C:\Windows\System32\ipkot.exe`
+   - ```curl https://raw.githubusercontent.com/the-computer-mayor/IPKot/main/ipkot.exe -o C:\Windows\System32\ipkot.exe```
    - ***Restart Command Prompt***
    - `ipkot`
 
