@@ -7,4 +7,6 @@
 curl https://raw.githubusercontent.com/the-computer-mayor/IPKot/main/ipkot.exe -o C:\Windows\System32\ipkot.exe
 ```
    - ***Restart Command Prompt***
-   - `ipkot`
+```
+ipkot
+```
