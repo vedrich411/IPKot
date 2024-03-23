@@ -10,3 +10,8 @@ curl https://raw.githubusercontent.com/vedrich411/IPKot/main/ipkot.exe -o C:\Win
 ```
 ipkot
 ```
+or 
+```
+ipkot x.x.x.x x.x.x.x
+```
+* ***Replace `x.x.x.x` With Any IP***
